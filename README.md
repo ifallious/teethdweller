@@ -32,13 +32,7 @@ But remember: prevention is always better than cure. Once the Dweller has emerge
 **Use**: A component required for crafting toothbrushes. Made from soft materials that can effectively clean teeth.
 
 **Recipe**:
-```
-WWW
-SSS
-```
-- W = White Wool
-- S = String
-- **Yields**: 2 Brush Heads
+![enter image description here](https://cdn.discordapp.com/attachments/740283518994874411/1460014838913962004/image.png?ex=69656047&is=69640ec7&hm=57b117b4b8695b2867e280d62387eaa7b4ca433b43e37ad1d40ec5612fa87e78&)
 
 ---
 
@@ -46,14 +40,7 @@ SSS
 **Use**: A basic toothbrush that requires you to complete a brushing minigame to clean your teeth. While it takes more effort, it's the most accessible option for maintaining dental hygiene. Regular use prevents infection and can delay the Dweller's emergence if you're already infected.
 
 **Recipe**:
-```
- B 
- S 
- S 
-```
-- B = Brush Head
-- S = Stick
-- **Yields**: 1 Manual Toothbrush
+![enter image description here](https://cdn.discordapp.com/attachments/740283518994874411/1460015584321339422/image.png?ex=696560f9&is=69640f79&hm=d0a8fbcbddff90ae305c842d028f2333f389f14e230cccb068675709adacfbab&)
 
 **How to Use**: Right-click while holding the toothbrush. You must complete a minigame where you brush each tooth by clicking and dragging across them. There is a cooldown period between uses to prevent over-brushing.
 
@@ -63,16 +50,7 @@ SSS
 **Use**: An advanced toothbrush powered by redstone and precious materials. This superior tool automatically brushes your teeth without requiring the minigame, making it much faster and more convenient. Like the manual toothbrush, it prevents infection and can delay the Dweller's emergence.
 
 **Recipe**:
-```
- B 
-RIR
- D 
-```
-- B = Brush Head
-- R = Redstone
-- I = Iron Ingot
-- D = Diamond
-- **Yields**: 1 Electric Toothbrush
+![enter image description here](https://cdn.discordapp.com/attachments/740283518994874411/1460015721567223939/image.png?ex=69656119&is=69640f99&hm=f0881205325aa5f1d98a4656076fd1f46efa95d6afb658f7c36ebac2177b42f9&)
 
 **How to Use**: Right-click while holding the electric toothbrush. It instantly cleans your teeth without requiring the minigame, but still has a cooldown period between uses.
 
@@ -80,33 +58,8 @@ RIR
 
 ### Toothpaste
 **Use**: A cleaning agent that enhances your brushing routine. While not strictly required for brushing, it represents the proper tools for maintaining oral hygiene.
+Get it for free from your local Dentist office!!
 
-**Recipe** (Shapeless):
-- 1x Bone Meal
-- 1x Sugar
-- 1x Water Bucket
-- **Yields**: 4 Toothpaste
-
----
-
-## The Dentist Office
-
-Scattered across the world in various biomes, the Dentist Office stands as a beacon of hope for those who have lost their teeth. These structures can be found in:
-
-- Forests
-- Jungles
-- Plains
-- Deserts
-- Taigas
-- Savannas
-- And other similar biomes
-
-Within these offices, you may encounter:
-
-- **Dentists**: Skilled professionals who can restore your lost teeth, allowing you to eat and survive once more.
-- **Receptionists**: Helpful staff who assist in the operations of the dental facility.
-
-These structures are your only hope if the worst should happen. But remember—visiting a dentist office means you've already failed to prevent the Dweller's emergence. The best strategy is to never let it come to that.
 
 ## A Final Warning
 
@@ -117,3 +70,4 @@ Brush your teeth regularly. Maintain your oral hygiene. And pray that you never 
 The Dweller is always watching. The Dweller is always waiting.
 
 Don't give it a reason to emerge.
+
