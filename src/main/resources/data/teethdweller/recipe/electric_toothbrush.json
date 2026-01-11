@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " B ",
-    "RIR",
+    "ISI",
     " D "
   ],
   "key": {
     "B": "teethdweller:brush_head",
-    "R": "minecraft:redstone",
-    "I": "minecraft:iron_ingot",
+    "I": "minecraft:iron_block",
+    "S": "minecraft:nether_star",
     "D": "minecraft:diamond"
   },
   "result": {

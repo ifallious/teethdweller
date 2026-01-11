@@ -46,11 +46,21 @@ But remember: prevention is always better than cure. Once the Dweller has emerge
 
 ---
 
+### High-End Manual Toothbrush
+**Use**: A premium version of the manual toothbrush crafted with gold and iron. Probably made in the same factory using the same brush head but due to the added brand name and gold accents it seems to last way longer.
+
+**Recipe**:
+![e](https://cdn.discordapp.com/attachments/1094545858009255946/1460040888343330836/image.png?ex=6965788a&is=6964270a&hm=0ca879f70980405cf718aa83296b03867c371e8a14607e48a0f069fd5c972015&)
+
+**How to Use**: Same as the regular one but you get to feel fancy ✨
+
+---
+
 ### Electric Toothbrush
 **Use**: An advanced toothbrush powered by redstone and precious materials. This superior tool automatically brushes your teeth without requiring the minigame, making it much faster and more convenient. Like the manual toothbrush, it prevents infection and can delay the Dweller's emergence.
 
 **Recipe**:
-![enter image description here](https://cdn.discordapp.com/attachments/740283518994874411/1460015721567223939/image.png?ex=69656119&is=69640f99&hm=f0881205325aa5f1d98a4656076fd1f46efa95d6afb658f7c36ebac2177b42f9&)
+![enter image description here](https://cdn.discordapp.com/attachments/1094545858009255946/1460037246450270464/image.png?ex=69657525&is=696423a5&hm=dac44ff7f42f7a00451e744cb18cceb5103a304c2c03110cf84f027ab1e5bbcb&)
 
 **How to Use**: Right-click while holding the electric toothbrush. It instantly cleans your teeth without requiring the minigame, but still has a cooldown period between uses.
 

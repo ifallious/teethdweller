@@ -66,6 +66,16 @@ public class ManualToothbrushItem extends Item {
         data.setLastBrushTime(currentTime);
         data.incrementBrushesToday();
         
+        // Damage the toothbrush
+        ItemStack mainHand = player.getMainHandStack();
+        ItemStack offHand = player.getOffHandStack();
+        
+        if (mainHand.getItem() instanceof ManualToothbrushItem) {
+            mainHand.damage(1, player, Hand.MAIN_HAND);
+        } else if (offHand.getItem() instanceof ManualToothbrushItem) {
+            offHand.damage(1, player, Hand.OFF_HAND);
+        }
+        
         // If infected, extend hatch time
         if (data.hasDweller()) {
             data.extendHatchTime(currentTime);

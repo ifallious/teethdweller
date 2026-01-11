@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "teethdweller:item/high_end_manual_toothbrush"
+  }
+}

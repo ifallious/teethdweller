@@ -17,8 +17,12 @@ import java.util.function.Function;
 public class ModItems {
     
     public static final Item MANUAL_TOOTHBRUSH = register("manual_toothbrush", 
-        ManualToothbrushItem::new, 
-        new Item.Settings().maxCount(1));
+        ManualToothbrushItem::new,
+        new Item.Settings().maxDamage(9).maxCount(1));
+    
+    public static final Item HIGH_END_MANUAL_TOOTHBRUSH = register("high_end_manual_toothbrush", 
+        ManualToothbrushItem::new,
+        new Item.Settings().maxDamage(64).maxCount(1));
     
     public static final Item ELECTRIC_TOOTHBRUSH = register("electric_toothbrush", 
         ElectricToothbrushItem::new, 
@@ -42,6 +46,7 @@ public class ModItems {
         
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(entries -> {
             entries.add(MANUAL_TOOTHBRUSH);
+            entries.add(HIGH_END_MANUAL_TOOTHBRUSH);
             entries.add(ELECTRIC_TOOTHBRUSH);
         });
         

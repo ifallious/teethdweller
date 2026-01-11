@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "GIG",
+    " I "
+  ],
+  "key": {
+    "B": "teethdweller:brush_head",
+    "G": "minecraft:gold_ingot",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "teethdweller:high_end_manual_toothbrush",
+    "count": 1
+  }
+}
