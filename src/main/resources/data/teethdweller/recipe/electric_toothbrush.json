@@ -6,18 +6,10 @@
     " D "
   ],
   "key": {
-    "B": {
-      "item": "teethdweller:brush_head"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
-    "D": {
-      "item": "minecraft:diamond"
-    }
+    "B": "teethdweller:brush_head",
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "D": "minecraft:diamond"
   },
   "result": {
     "id": "teethdweller:electric_toothbrush",
