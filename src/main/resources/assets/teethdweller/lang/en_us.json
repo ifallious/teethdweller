@@ -1,0 +1,24 @@
+{
+  "item.teethdweller.manual_toothbrush": "Manual Toothbrush",
+  "item.teethdweller.electric_toothbrush": "Electric Toothbrush",
+  "item.teethdweller.toothpaste": "Toothpaste",
+  "item.teethdweller.brush_head": "Brush Head",
+  
+  "entity.teethdweller.teeth_dweller": "Teeth Dweller",
+  "entity.teethdweller.dentist": "Dentist",
+  "entity.teethdweller.receptionist": "Receptionist",
+  
+  "structure.teethdweller.dentist_office": "Dentist Office",
+  
+  "teethdweller.minigame.title": "Brush Your Teeth!",
+  "teethdweller.minigame.instructions": "Click and drag across the teeth to brush them!",
+  
+  "teethdweller.message.no_teeth": "You can't eat without teeth! Visit a dentist!",
+  "teethdweller.message.cooldown": "You need to wait before brushing again.",
+  "teethdweller.message.clean": "Your teeth are sparkling clean!",
+  "teethdweller.message.infected_clean": "Your teeth feel cleaner... but something still feels wrong.",
+  "teethdweller.message.dweller_spawn": "AAAARGH! Something horrible bursts from your mouth!",
+  "teethdweller.message.teeth_lost": "The Teeth Dweller has emerged! You've lost all your teeth!",
+  "teethdweller.message.visit_dentist": "Visit a dentist to get new teeth..."
+}
+

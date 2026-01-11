@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "teethdweller",
+	"version": "${version}",
+	"name": "TeethDweller",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/teethdweller/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"TeethDweller.teethdweller.TeethDweller"
+		],
+		"client": [
+			"TeethDweller.teethdweller.TeethDwellerClient"
+		],
+		"fabric-datagen": [
+			"TeethDweller.teethdweller.TeethDwellerDataGenerator"
+		]
+	},
+	"mixins": [
+		"teethdweller.mixins.json",
+		{
+			"config": "teethdweller.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

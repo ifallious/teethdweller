@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "RIR",
+    " D "
+  ],
+  "key": {
+    "B": {
+      "item": "teethdweller:brush_head"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "teethdweller:electric_toothbrush",
+    "count": 1
+  }
+}
+

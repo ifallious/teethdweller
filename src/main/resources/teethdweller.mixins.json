@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "TeethDweller.teethdweller.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"refmap": "teethdweller-refmap.json",
+	"mixins": [
+		"PlayerEatFoodMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

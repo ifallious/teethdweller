@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "B": {
+      "item": "teethdweller:brush_head"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "teethdweller:manual_toothbrush",
+    "count": 1
+  }
+}
+
