@@ -19,7 +19,7 @@ public class ModEntities {
         Registries.ENTITY_TYPE,
         RegistryKey.of(RegistryKeys.ENTITY_TYPE, Identifier.of(TeethDweller.MOD_ID, "teeth_dweller")),
         EntityType.Builder.create(TeethDwellerEntity::new, SpawnGroup.MONSTER)
-            .dimensions(0.6f, 0.8f)
+            .dimensions(1f, 1.57f)
             .build(RegistryKey.of(RegistryKeys.ENTITY_TYPE, Identifier.of(TeethDweller.MOD_ID, "teeth_dweller")))
     );
     

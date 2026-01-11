@@ -38,11 +38,11 @@ public class TeethDwellerEntity extends HostileEntity {
     
     public static DefaultAttributeContainer.Builder createTeethDwellerAttributes() {
         return HostileEntity.createHostileAttributes()
-            .add(EntityAttributes.MAX_HEALTH, 60.0)  // Very tanky
-            .add(EntityAttributes.ATTACK_DAMAGE, 12.0)  // High damage
-            .add(EntityAttributes.MOVEMENT_SPEED, 0.5)  // Very fast
-            .add(EntityAttributes.FOLLOW_RANGE, 64.0)  // Long tracking range
-            .add(EntityAttributes.ARMOR, 8.0)  // Some armor
+            .add(EntityAttributes.MAX_HEALTH, 100.0)  // Very tanky
+            .add(EntityAttributes.ATTACK_DAMAGE, 8.0)  // High damage
+            .add(EntityAttributes.MOVEMENT_SPEED, 0.6)  // Very fast
+            .add(EntityAttributes.FOLLOW_RANGE, 500.0)  // Long tracking range
+            .add(EntityAttributes.ARMOR, 0.0)  // Some armor
             .add(EntityAttributes.KNOCKBACK_RESISTANCE, 0.5);  // Hard to knock back
     }
     
